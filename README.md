@@ -8,9 +8,9 @@ As an android user, I want to make sure anyone that uses my apps knows that I fu
 
 I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data (photos and text) created by the you (the user) is stored on your device only, and can be simply erased by clearing the app's data, uninstalling the app, and by creating any image exports that you've done.
 
-I currently use ads for this app to help pay for maintenance and infrastructure.  The app may show ads personlized for you.
+I currently use ads for this app to help pay for maintenance and infrastructure.  The app may ask for permission to collect personal data to show personlized ads.  If at any point you want to reset your choices, try clearing your cache and deleting the storage for the app.
 
-I made sure to double check the permissions required to work Watermarkit and remove any that I didn't feel was neccessary.
+I made sure to double check the android permissions required to work Watermarkit and remove any that I didn't feel was neccessary.
 
 Below are the permissions requested and their use:
 
