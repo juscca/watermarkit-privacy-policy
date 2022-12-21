@@ -1,16 +1,16 @@
 # Watermarkit Privacy Policy
 
-Welcome to the Watermarkit app for Android!
+Welcome to the watermarkit app for Android!
 
-This is an app developed by myself, Justin. The app is currently available on google play
+This is an app developed by myself, Justin. The app is currently available on google play.
 
-As an android user, I want to make sure anyone that uses my apps knows that I fully understand how important privacy and personal information is.
+As an android user, I want to make sure that anyone who uses watermarkit knows that I fully understand how important privacy and personal information is.
 
-I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data (photos and text) created by the you (the user) is stored on your device only, and can be simply erased by clearing the app's data, uninstalling the app, and by creating any image exports that you've done.
+I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data, images and/or text, created by the you, the user, is stored on your device only and can be simply erased by clearing the app's cache and storage, uninstalling the app, and by deleting any image exports that you've done.
 
-I currently use ads for this app to help pay for maintenance and infrastructure.  The app may ask for permission to collect personal data to show personlized ads.  If at any point you want to reset your choices, try clearing your cache and deleting the storage for the app.
+I currently use ads in watermarkit to help pay for maintenance and infrastructure (tools to build the app).  Watermarkit may ask for permission to collect data to show personlized ads.  If at any point you want to reset your choices, try clearing your cache and deleting the storage for the app.
 
-I made sure to double check the android permissions required to work Watermarkit and remove any that I didn't feel was neccessary.
+I made sure to double check the android permissions required to work Watermarkit and I removed any that I felt unneccessary.
 
 Below are the permissions requested and their use:
 
@@ -23,7 +23,7 @@ Below are the permissions requested and their use:
 |android.permission.VIBRATE               |Notification usage in the future                                                                                         |
 |android.permission.WRITE_EXTERNAL_STORAGE|Allows the user to save the newly watermarked image/photo.                                                               |
 
-If you come across any issue, bug, or vulnerability, I would love to hear about it so we can get it fixed!
+If you come across any issue, bug, or vulnerability, I would love to hear about it so we can get it fixed!  I'd also like to hear suggestions on how watermarkit can be improved!
 
 Thanks for trying Watermarkit!
 sincerely,
