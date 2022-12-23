@@ -6,7 +6,7 @@ This is an app developed by myself, Justin. The app is currently available on go
 
 As an android user, I want to make sure that anyone who uses watermarkit knows that I fully understand how important privacy and personal information is.
 
-I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data, images and/or text, created by the you, the user, is stored on your device only and can be simply erased by clearing the app's cache and storage, uninstalling the app, and by deleting any image exports that you've done.
+I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information.
 
 I currently use ads in watermarkit to help pay for maintenance and infrastructure (tools to build the app).  Watermarkit may ask for permission to collect and share data to show personlized ads.  Although watermarkit is completely free, and will be forever, a user may watch an ad when using of one of the features to get more options or selections for customization.  Reward ads are completely optional as we still provide some customization options for watermarking your photos.  Banner ads are optional for EU inhabitants when they fill out the data collection form.  For anyone not in the EU, the way not to see the banner ads would be to not use watermarkit.  I completely understand if a user makes that selection.  I understand how frustrating ads can be but I want to make sure I can keep improving on watermarkit while keeping it free for everyone.
 
